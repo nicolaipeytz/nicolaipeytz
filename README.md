@@ -2,9 +2,9 @@
 
 
 ### Open in Jupyter lab
-Step 1: Open Terminal
-Step 2: Type ```conda activate speciale```
-Step 3: Type ```jupyter lab```
+* Step 1: Open Terminal
+* Step 2: Type ```conda activate speciale```
+* Step 3: Type ```jupyter lab```
 
 ### General Overview
 This repository contains files for my masters thesis in economics
